@@ -1,0 +1,32 @@
+{
+  "templates": [
+    {
+      "template": "<p type=\"text\" id=\"textContent\">The European languages are members of the same family. Their separate existence is a myth. <span class=\"allowDrop\">replace</span> For science, music, sport, etc, Europe uses the same vocabulary. The languages only differ in their grammar, their pronunciation and their most common words. <span class=\"allowDrop\">replace</span> Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To achieve this, it would be necessary to have uniform grammar, pronunciation and more common words. If several languages coalesce, the grammar of&nbsp;<span class=\"allowDrop\">replace</span>.</p>\n",
+      "id": 1
+    },
+    {
+      "template": "<h1>As Occidental;</h1>\n\n<blockquote>\n<p>in fact, it will be Occidental. To an English person,</p>\n</blockquote>\n\n<p>it will seem like simplified English, as a skeptical Cambridge friend of mine told me what Occidental is.</p>\n\n<p>The European languages are members of the same family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary.&nbsp;</p>\n",
+      "id": 2
+    },
+    {
+      "template": "<h1>The European languages are members of the same family.</h1>\n\n<blockquote>\n<p>Their separate existence is a myth. For science, music, sport, etc, Europe uses the same vocabulary.</p>\n</blockquote>\n\n<p>The languages only differ in their grammar, their pronunciation and their most common words. <span class=\"allowDrop\">replace</span> Everyone realizes why a new common</p>\n\n<p>language would be desirable: one could refuse to pay expensive translators. <span class=\"allowDrop\">replace</span> To achieve this, it would be necessary to have uniform grammar, <span class=\"allowDrop\">replace</span> pronunciation and more common words. If several languages coalesce, the grammar of the resulting language is more simple and regular than that of the individual languages.</p>\n\n<ul>\n\t<li>\n\t<h2>The new common language will be more simple and regular than the existing European languages. It&nbsp;</h2>\n\t</li>\n</ul>\n",
+      "id": 3
+    },
+    {
+      "template": "<h1>Hiren testing with Jude&nbsp;<span class=\"allowDrop\">replace</span></h1>\n\n<p>That Occidental is.</p>\n\n<p>The European languages are members of the same family. <span class=\"allowDrop\">replace</span> Their separate existence is a myth. <span class=\"allowDrop\">replace</span> For science, music, sport, etc, Europe uses the same vocabulary.</p>\n\n<p>The languages only differ in their grammar,</p>\n\n<p>their pronunciation and their most common words.</p>\n\n<ul>\n\t<li>Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To</li>\n</ul>\n",
+      "id": 4
+    },
+    {
+      "template": "<h1>Hiren testing with Jude&nbsp;<span class=\"allowDrop\">replace</span></h1>\n\n<p>That Occidental is.</p>\n\n<p>The European languages are members of the same family. <span class=\"allowDrop\">replace</span> Their separate existence is a myth. <span class=\"allowDrop\">replace</span> For science, music, sport, etc, Europe uses the same vocabulary.</p>\n\n<p>The languages only differ in their grammar,&nbsp;</p>\n\n<p>their pronunciation and their most common words.</p>\n\n<ul>\n\t<li>Everyone realizes why a new common language would be desirable: one could refuse to pay expensive translators. To</li>\n</ul>\n",
+      "id": 5
+    },
+    {
+      "template": "<h1>This is a header</h1><p>dlklk;dls&nbsp;</p><p>sdkhkfhls</p><p><span class=\"allowDrop\">replace</span><br></p><p>asjhksjhfkljs&nbsp;<span class=\"allowDrop\">replace</span></p><p><br></p>",
+      "id": 6
+    },
+    {
+      "template": "<p>This is a new content</p>\n",
+      "id": 7
+    }
+  ]
+}

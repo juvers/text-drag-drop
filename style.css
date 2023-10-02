@@ -1,0 +1,84 @@
+html,
+body {
+  box-sizing: content-box;
+  overflow: hidden;
+}
+.st-height {
+  min-height: calc(100vh - 150px);
+  border: 1px solid #ccc;
+}
+
+.st-text {
+  border: 1px solid #eee;
+  height: 400px;
+}
+
+.st-template {
+  height: 120px;
+  border: 1px solid #ccc;
+}
+
+.st-main-row {
+  height: inherit;
+}
+.allowDrop {
+  color: red;
+  font-weight: bold;
+}
+
+#textContent {
+  /* border: 1px solid #ccc; */
+  text-align: justify;
+  width: 100%;
+}
+
+.st-keyword {
+  border: 1px solid green;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.st-btns {
+  position: absolute;
+  bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  width: calc(100% - 48px);
+}
+
+.st-label {
+  border: 1px solid #ccc;
+  display: block;
+  padding: 4px;
+  cursor: pointer;
+  text-align: center;
+  width: 100%;
+}
+
+.st-header {
+  height: 120px;
+  border: 1px solid #ccc;
+}
+
+.st-toggle {
+  width: 100%;
+}
+#st-input {
+  width: 100%;
+}
+
+.st-ul {
+  padding: 0;
+  height: 220px;
+  overflow: scroll;
+}
+
+.st-border {
+  border: 1px solid #ccc;
+  height: 100px;
+}
+
+.st-select2 {
+  width: 100px !important;
+  padding: 8px;
+}
